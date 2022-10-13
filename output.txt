@@ -1,0 +1,71 @@
+< #include > - < preprocessor directive >
+< < > - < operator >
+< stdio > - < identifier >
+< . > - < operator >
+< h > - < identifier >
+< > > - < operator >
+< //comment 2
+ > - < one line comment >
+< /*
+comment
+*/ > - < multiline comment >
+< int > - < Key word >
+< main > - < identifier >
+< ( > - < operator >
+< ) > - < operator >
+< { > - < punctuator >
+< const > - < Key word >
+< int > - < Key word >
+< dec > - < identifier >
+< = > - < operator >
+< 10 > - < decimal constant >
+< ; > - < punctuator >
+< const > - < Key word >
+< int > - < Key word >
+< oct > - < identifier >
+< = > - < operator >
+< 0 > - < decimal constant >
+< 80 > - < decimal constant >
+< ; > - < punctuator >
+< const > - < Key word >
+< int > - < Key word >
+< hex > - < identifier >
+< = > - < operator >
+< 0xA10 > - < hex constant >
+< ; > - < punctuator >
+< const > - < Key word >
+< char > - < Key word >
+< ch > - < identifier >
+< = > - < operator >
+< '\n' > - < char constant >
+< ; > - < punctuator >
+< const > - < Key word >
+< char > - < Key word >
+< * > - < operator >
+< str > - < identifier >
+< = > - < operator >
+< "string" > - < string constant >
+< ; > - < punctuator >
+< const > - < Key word >
+< float > - < Key word >
+< fl > - < identifier >
+< = > - < operator >
+< 1.0 > - < float constant >
+< ; > - < punctuator >
+< print_hello > - < identifier >
+< ( > - < operator >
+< ) > - < operator >
+< ; > - < punctuator >
+< if > - < Key word >
+< ( > - < operator >
+< true > - < Key word >
+< ) > - < operator >
+< { > - < punctuator >
+< і > - < Unrecognized lexeme >
+< в > - < Unrecognized lexeme >
+< а > - < Unrecognized lexeme >
+< } > - < punctuator >
+< return > - < Key word >
+< 0 > - < decimal constant >
+< ; > - < punctuator >
+< } > - < punctuator >
